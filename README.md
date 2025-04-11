@@ -31,7 +31,7 @@ A dynamic language switcher web application that allows users to switch between 
 
 4. Open the application in your browser:
    ```
-   http://localhost/blackbox/
+   http://localhost/in which name this file you saved/
    ```
 
 ## File Structure
