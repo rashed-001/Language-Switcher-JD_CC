@@ -22,7 +22,7 @@ A dynamic language switcher web application that allows users to switch between 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/language-switcher.git
+      git clone https://github.com/rashed-001/Language-Switcher-JD_CC.git   
    ```
 
 2. Move the project to your web server directory (e.g., `/c:/xampp/htdocs/` for XAMPP).
