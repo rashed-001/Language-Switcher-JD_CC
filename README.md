@@ -37,7 +37,7 @@ A dynamic language switcher web application that allows users to switch between 
 ## File Structure
 
 ```
-blackbox/
+Language-Switcher-JD_CC/
 ├── css/
 │   └── style.css          # Styles for the application
 ├── js/
